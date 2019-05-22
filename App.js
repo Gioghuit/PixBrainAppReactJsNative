@@ -1,4 +1,4 @@
-import React from 'react';
+<p></p>import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 export default class App extends React.Component {
@@ -6,7 +6,8 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
 
-        <Text>hackable ReactJsNative Enjoi00004!!!</Text>
+        <Text>hackable ReactJsNative Enjoi!!!</Text>
+        <Text>My First Yarn Start ok?</Text>
         <Text>Open up App.js to start working on your app!</Text>
         <Text>Changes you make will automatically reload.</Text>
         <Text>Shake your phone to open the developer menu.</Text>
